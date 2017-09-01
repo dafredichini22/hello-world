@@ -1,3 +1,3 @@
 # hello-world
-Just another repository 
-A student at the University of Montana.
+Just another repository.
+Pizza is good.
